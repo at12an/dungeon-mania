@@ -7,6 +7,7 @@ DungeonMania was a collaborated project, done for the course COMP2511. Dungeonma
 
 # Skills Involved
 Within this project, there was a heavy emphasis on design and effective collaboration. 
+
 Effective design and teamwork was achieved through various methods:
   - Applying correct Java principles and design patterns / strategies (E.G. Inheritance / Abstraction / Factory Pattern)
   - Task management / allocation through git features
