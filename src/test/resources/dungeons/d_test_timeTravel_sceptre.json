@@ -1,0 +1,25 @@
+{
+    "entities" : [
+        {
+            "type" : "player",
+            "x"      : 0,
+            "y"      : 0
+        },
+        {
+            "type" : "sceptre",
+            "x"      : 4,
+            "y"      : 0
+        },
+        {
+            "type" : "time_turner",
+            "x"      : 5,
+            "y"      : 0
+        },
+        {
+            "type" : "exit",
+            "x"      : 8,
+            "y"      : 8
+        }
+    ],
+    "goal-condition": {"goal": "enemies"}
+}

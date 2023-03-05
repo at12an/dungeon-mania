@@ -1,0 +1,27 @@
+{
+    "entities" : [
+        {
+            "type" : "player",
+            "x"      : 0,
+            "y"      : 0
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "type": "time_travelling_portal",
+            "colour": "BLUE"
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "type": "time_travelling_portal",
+            "colour": "BLUE"
+        },
+        {
+            "type" : "exit",
+            "x"      : 8,
+            "y"      : 8
+        }
+    ],
+    "goal-condition": {"goal": "exit"}
+}

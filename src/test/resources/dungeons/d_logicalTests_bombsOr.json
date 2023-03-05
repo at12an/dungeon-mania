@@ -1,0 +1,33 @@
+{
+    "entities": [
+      {
+        "type" : "player",
+        "x" : 1,
+        "y" : 2
+      }, {
+        "type" : "bomb",
+        "x" : 1,
+        "y" : 3,
+        "logic": "or"
+      }, {
+        "type" : "boulder",
+        "x" : 2,
+        "y" : 2
+      }, {
+        "type" : "switch",
+        "x" : 3,
+        "y" : 2,
+        "logic": "or"
+      }, {
+        "type" : "switch",
+        "x" : 4,
+        "y" : 2,
+        "logic": "or"
+      }, {
+        "type": "exit",
+        "x": 8,
+        "y": 8
+      }
+    ],
+    "goal-condition": {"goal": "exit"}
+}

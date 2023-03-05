@@ -1,0 +1,87 @@
+{
+    "entities" : [
+        {
+            "type" : "player",
+            "x"      : 0,
+            "y"      : 0
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "type": "time_travelling_portal",
+            "colour": "BLUE"
+        },
+        {
+            "x": 10,
+            "y": 10,
+            "type": "time_travelling_portal",
+            "colour": "BLUE"
+        },
+        {
+            "type" : "invincibility_potion",
+            "x"      : 2,
+            "y"      : 0
+        },
+        {
+            "type" : "wood",
+            "x"      : 3,
+            "y"      : 0
+        },
+        {
+            "type" : "zombie_toast_spawner",
+            "x"      : 4,
+            "y"      : 0
+        },
+        {
+            "type" : "wood",
+            "x"      : 4,
+            "y"      : 1
+        },
+        {
+            "type" : "invisibility_potion",
+            "x"      : 4,
+            "y"      : 2
+        },
+        {
+            "type" : "zombie_toast_spawner",
+            "x"      : 5,
+            "y"      : 3
+        },
+        {
+            "type" : "wood",
+            "x"      : 5,
+            "y"      : 4
+        },
+        {
+            "type" : "treasure",
+            "x"      : 5,
+            "y"      : 5
+        },
+        {
+            "type" : "arrow",
+            "x"      : 5,
+            "y"      : 6
+        },
+        {
+            "type" : "arrow",
+            "x"      : 4,
+            "y"      : 6
+        },
+        {
+            "type" : "arrow",
+            "x"      : 3,
+            "y"      : 6
+        },
+        {
+            "type" : "sword",
+            "x"      : 1,
+            "y"      : 1
+        },
+        {
+            "type" : "exit",
+            "x"      : 12,
+            "y"      : 12
+        }
+    ],
+    "goal-condition": {"goal": "exit"}
+}

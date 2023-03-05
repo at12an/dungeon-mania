@@ -1,0 +1,106 @@
+{
+    "entities": [
+    {
+        "type" : "player",
+        "x" : 3,
+        "y" : 3
+    }, {
+        "type" : "boulder",
+        "x" : 1,
+        "y" : 3
+    }, {
+        "type" : "boulder",
+        "x" : 2,
+        "y" : 2
+    }, {
+        "type" : "boulder",
+        "x" : 2,
+        "y" : 3
+    }, {
+        "type" : "boulder",
+        "x" : 2,
+        "y" : 4
+    }, {
+        "type" : "boulder",
+        "x" : 3,
+        "y" : 1
+    }, {
+        "type" : "boulder",
+        "x" : 3,
+        "y" : 2
+    }, {
+        "type" : "boulder",
+        "x" : 3,
+        "y" : 4
+    }, {
+        "type" : "boulder",
+        "x" : 3,
+        "y" : 5
+    }, {
+        "type" : "boulder",
+        "x" : 4,
+        "y" : 2
+    }, {
+        "type" : "boulder",
+        "x" : 4,
+        "y" : 3
+    }, {
+        "type" : "boulder",
+        "x" : 4,
+        "y" : 4
+    }, {
+        "type" : "boulder",
+        "x" : 5,
+        "y" : 3
+    }, {
+        "type" : "zombie_toast",
+        "x" : 7,
+        "y" : 7
+    }, {
+        "type" : "portal",
+        "x" : 6,
+        "y" : 7,
+        "colour": "blue"
+    }, {
+        "type" : "portal",
+        "x" : 7,
+        "y" : 1,
+        "colour": "blue"
+    }, {
+        "type" : "portal",
+        "x" : 8,
+        "y" : 7,
+        "colour": "red"
+    }, {
+        "type" : "portal",
+        "x" : 7,
+        "y" : 8,
+        "colour": "yellow"
+    }, {
+        "type" : "portal",
+        "x" : 7,
+        "y" : 6,
+        "colour": "green"
+    }, {        
+        "type" : "portal",
+        "x" : 10,
+        "y" : 7,
+        "colour": "red"
+    }, {
+        "type" : "portal",
+        "x" : 10,
+        "y" : 4,
+        "colour": "yellow"
+    }, {
+        "type" : "portal",
+        "x" : 9,
+        "y" : 3,
+        "colour": "green"
+    }, {
+        "type" : "exit",
+        "x" : 9,
+        "y" : 9
+    }
+    ],
+    "goal-condition": {"goal": "exit"}
+}
